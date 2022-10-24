@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{329EEDD5-5441-4751-9187-B9348DA4AA5A}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FT.ApplicationCore/Domain/Equipe.cs">
+    <Files>
+      <File FileName="FT.ApplicationCore/Domain/Trophee.cs" Line="5" Column="6" />
+      <File FileName="FT.ApplicationCore/Interface/IServiceEquipe.cs" Line="11" Column="13" />
+      <File FileName="FT.ApplicationCore/Service/ServiceEquipe.cs" Line="20" Column="14" />
+      <File FileName="FT.ApplicationCore/Domain/Membre.cs" Line="23" Column="30" />
+      <File FileName="FederationTodo/Program.cs" Line="20" Column="24" />
+      <File FileName="FT.ApplicationCore/Domain/Equipe.cs" Line="17" Column="25" />
+      <File FileName="FT.ApplicationCore/Domain/Contrat.cs" Line="1" Column="1" />
+      <File FileName="FT.ApplicationCore/Domain/Entraineur.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FederationTodo" expanded="True">
+            <Node name="FT.ApplicationCore" expanded="True">
+              <Node name="Domain" expanded="True">
+                <Node name="Equipe.cs" selected="True" />
+              </Node>
+              <Node name="Interface" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+            <Node name="FT.UI.Console" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FT.UI.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

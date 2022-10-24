@@ -1,0 +1,12 @@
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/bin/Debug/net6.0/FT.ApplicationCore.deps.json
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/bin/Debug/net6.0/FT.ApplicationCore.dll
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/bin/Debug/net6.0/FT.ApplicationCore.pdb
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.csproj.AssemblyReference.cache
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.AssemblyInfoInputs.cache
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.AssemblyInfo.cs
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.csproj.CoreCompileInputs.cache
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.dll
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/refint/FT.ApplicationCore.dll
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/FT.ApplicationCore.pdb
+/Users/mohamedabbes/Projects/FederationTodo/FT.ApplicationCore/obj/Debug/net6.0/ref/FT.ApplicationCore.dll

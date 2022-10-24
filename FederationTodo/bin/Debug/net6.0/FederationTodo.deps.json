@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FederationTodo/1.0.0": {
+        "dependencies": {
+          "FT.ApplicationCore": "1.0.0"
+        },
+        "runtime": {
+          "FederationTodo.dll": {}
+        }
+      },
+      "FT.ApplicationCore/1.0.0": {
+        "runtime": {
+          "FT.ApplicationCore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FederationTodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FT.ApplicationCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
